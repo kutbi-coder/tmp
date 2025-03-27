@@ -1,0 +1,12 @@
+/*
+  Styling our website
+*/
+html, body{
+  margin: 0;
+  padding: 0;
+  color: darkblue;
+}
+
+header h1{
+  color: crimson
+}  
